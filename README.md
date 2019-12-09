@@ -1,6 +1,10 @@
 # python3
 学习Python3练手项目
 
+## 目录
+* .gitignore --- GitHub忽略文件配置
+* README.md  --- 首页显示信息文档 
+
 ## 更新日志
 ### 2019年12月8日
 重新clone仓库，开始重新学习
