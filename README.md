@@ -1,25 +1,12 @@
-# python3
-学习Python3练手项目
+# AlgoRush
 
-## 目录
-* .gitignore --- GitHub忽略文件配置
-* README.md  --- 首页显示信息文档 
+**📌 Competitive Programming Repository**  
+Welcome to my **Codeforces & Algorithmic Competitions** repository! 🚀 This is where I store my solutions, templates, and strategies for **competitive programming** contests. The goal is to continuously improve, learn new algorithms, and push my limits.  
 
-## 更新日志
-### 2019年12月8日
-重新clone仓库，开始重新学习
+📂 **Contents:**  
+✅ Codeforces, AtCoder, LeetCode solutions  
+✅ Common algorithm templates (DP, Graphs, Greedy, etc.)  
+✅ Notes & tricks for faster problem-solving  
+✅ My journey from WA ➝ AC ➝ Grandmaster  
 
-### 2019年12月9日 10点32分
-添加远程访问ssh配置，避免每次登录都需要输入密码。  
-具体方法：
-首先在本地生成公钥和私钥。  
-然后把公钥上传到服务器~/.ssh/下，新建文件authorized_keys  
-将公钥写入进去。然后就可以无密码登录链接了。  
-
-不知道为什么在GitHub上创建了.gitignore，不工作，并没有忽视指定文件。
-> 原因:如果不是在最初创建的话，之后就不会对已存在的文件进行生效。解决方法暂时不知道，如果有什么刷新文件结构的方法应该可以实现，到那时没有找到对应方法。
-
-### 2021年01月29日 18:21:05
-找时间看了《流畅的python》。
-顺手写写书中的代码。
-代码放在fluentpython下。
+Join the grind, optimize the code, and **never stop learning**! 💡🔥  
