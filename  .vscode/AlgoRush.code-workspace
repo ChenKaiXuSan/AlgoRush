@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "AlgoRush.wiki",
+			"path": "../AlgoRush.wiki"
+		}
+	],
+	"settings": {}
+}

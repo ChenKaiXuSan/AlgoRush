@@ -10,3 +10,6 @@ Welcome to my **Codeforces & Algorithmic Competitions** repository! 🚀 This is
 ✅ My journey from WA ➝ AC ➝ Grandmaster  
 
 Join the grind, optimize the code, and **never stop learning**! 💡🔥  
+
+My Leetcode Account:
+https://leetcode.com/u/chenkaixusan/
